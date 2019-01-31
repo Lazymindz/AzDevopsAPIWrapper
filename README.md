@@ -1,5 +1,5 @@
-# Az Devops API Wrapper
-Azure vsts Python's client library is still under heavy development and without documentation. I've had issues figuring out on making it work within Corportate environment with Proxies in place.
+# Azure Devops API Wrapper
+Azure vsts Python's client library is still under heavy development and without documentation. I've had issues to make it work within Corporate environment with Proxies in place.
 
 This repo is an example wrapper on top of Azure Devops API, which has helpful documentation.
 
