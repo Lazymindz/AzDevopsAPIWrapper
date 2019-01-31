@@ -1,0 +1,15 @@
+astroid
+certifi
+chardet
+colorama
+configparser
+idna
+isort
+lazy-object-proxy
+mccabe
+pylint
+requests
+six
+typed-ast
+urllib3
+wrapt
